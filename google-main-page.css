@@ -1,0 +1,309 @@
+#google{
+
+    position:absolute;
+    top:-50%;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+
+
+}
+
+#text1{
+    position:absolute;
+    top:-5%;
+    left: 35%;
+    right: 20%;
+    bottom: 0;
+    margin: auto;
+
+
+
+}
+
+
+#search{
+
+        width: 320px;
+        padding: 5px;
+        border: 5px solid rgb(187, 184, 184);
+        margin: 0;
+              
+
+
+}
+
+.kutu1{
+    width: 1000px;
+    height: 70px;
+    background-color: rgb(187, 184, 184);
+    display: inline-block;
+    position:absolute;
+    top:-25%;
+    left: 1%;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+  
+
+
+
+
+
+}
+
+#search-button{
+
+
+
+    position:absolute;
+    top:10%;
+    left: 30%;
+    right: 10%;
+    bottom: 0;
+    margin: auto;
+    height: 60%;
+    padding: 20;
+    width: 80%;
+
+
+
+
+
+
+}
+
+#button1 {
+
+
+    
+    position:absolute;
+    top: 70%;
+    left: 1%;
+    right: 20%;
+    bottom: 0;
+    margin: auto;
+    
+
+
+
+
+
+}
+
+
+#button2  {
+    position:absolute;
+    top: 70%;
+    left: 25%;
+    right: 20%;
+    bottom: 0;
+    margin: auto;
+
+
+
+
+
+    
+}
+
+
+
+
+.kutu2{
+
+
+
+    width: 470px;
+    height: 70px;
+    background-color: rgb(4, 190, 236);
+    display: inline-block;
+    position:absolute;
+    top:-10%;
+    left: 5%;
+    right: 606px;
+    bottom: 0;
+    margin: auto;
+  
+
+}
+
+#special{
+
+
+    position:absolute;
+    top:10%;
+    left: -0%;
+    right: 10%;
+    bottom: 0;
+    margin: auto;
+
+
+
+
+
+
+}
+
+#stanford{
+
+    position:absolute;
+    top:55%;
+    left: -0%;
+    right: 10%;
+    bottom: 0;
+    margin: auto;
+
+}
+
+#linux{
+    position:absolute;
+    top:30%;
+    left: -0%;
+    right: 10%;
+    bottom: 0;
+    margin: auto;
+
+
+}
+
+
+.kutu3{
+
+    width: 200px;
+    height: 70px;
+    background-color: rgb(100, 98, 207);
+    display: inline-block;
+    position:absolute;
+    top:-10%;
+    left: 5%;
+    right: 10px;
+    bottom: 0;
+    margin: auto;
+  
+}
+
+
+#help{
+
+
+    
+    position:absolute;
+    top:3%;
+    left: 5%;
+    right: 10%;
+    bottom: 0;
+    margin: auto;
+
+}
+
+#about-google{
+    position:absolute;
+    top:24%;
+    left: 5%;
+    right: 10%;
+    bottom: 0;
+    margin: auto;
+
+
+}
+
+#comp-info{
+    position:absolute;
+    top:45%;
+    left: 5%;
+    right: 10%;
+    bottom: 0;
+    margin: auto;
+
+
+
+
+}
+
+#google-logos{
+
+
+    position:absolute;
+    top:70%;
+    left: 5%;
+    right: 10%;
+    bottom: 0;
+    margin: auto;
+
+}
+
+.kutu4{
+    width: 396px;
+    height: 70px;
+    background-color: rgb(4, 190, 236);
+    display: inline-block;
+    position:absolute;
+    top:-10%;
+    left: 56%;
+    right: 606px;
+    bottom: 0;
+    margin: auto;
+}
+
+
+#get-google{
+
+    position:absolute;
+    top:1%;
+    left: -0%;
+    right: 10%;
+    bottom: 0;
+    margin: auto;
+
+
+}
+
+#search-button2{
+
+    position:absolute;
+    top:15%;
+    left: 5%;
+    right: 70%;
+    bottom: 0;
+    margin: auto;
+    height: 60%;
+    padding: 20;
+    width: 80%;
+    border: 5px solid rgb(4, 190, 236);
+
+
+}
+
+
+
+#button4{
+
+    position:absolute;
+    top: 73%;
+    left: 1%;
+    right: 50%;
+    bottom: 0;
+    margin: auto;
+    
+
+}
+
+#arch{
+
+    position:absolute;
+    top: 73%;
+    left: 37%;
+    right: 100%;
+    bottom: 0;
+    margin: auto;
+    
+
+
+
+
+
+
+
+}
